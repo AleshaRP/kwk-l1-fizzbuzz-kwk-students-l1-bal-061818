@@ -5,8 +5,8 @@ def fizz_buzz(int)
     puts "Buzz"
   elsif int%3== 0
     puts "Fizz"
-  #else
-    #puts "Nil"
+  else
+    puts "Nil"
   end
 end
 
